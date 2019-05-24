@@ -1,6 +1,8 @@
+
+
 /* Hero section styles */
 .hero-section {
-    background-image: url(../images/revised/tadow.jpg);
+    background-image: url(../images/tadow.jpg);
     padding: 100px;
     height: 300px;
     background-attachment: fixed;
@@ -30,7 +32,7 @@
 /* Features section styles */
 .features-section {
     height: 400px;
-    background-image: url(../images/revised/herb.jpg);
+    background-image: url(../images/herb.jpg);
     background-color:#fefbf7;
     border-top: 10px solid #c9b2a6;
     color:#c9b2a6;
